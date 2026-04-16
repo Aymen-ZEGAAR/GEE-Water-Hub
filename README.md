@@ -10,7 +10,7 @@ Select a pathway below to explore my specific projects, applications, and academ
 | Pathway | Focus Area | Status |
 | :--- | :--- | :--- |
 | **🚀 [Dev Apps & Tools](./apps/)** | GEE Applications for Water Masking & Quality. | Active |
-| **📚 [Academic Products](./research/)** | Code, Datasets (GLORIA), and Manuscripts. | Ongoing |
+| **📚 [Academic Products](./research/)** | Code, Datasets, and Manuscripts. | Ongoing |
 | **✍️ [Perspectives & Media](./perspectives/)** | "The PhD Curse" & Doctoral Education Reform. | Planning |
 
 ---
@@ -43,8 +43,13 @@ I focus on the intersection of **Multispectral Observations** and **Hydrological
 ## 💡 About Me
 I am a PhD Researcher and Editor specializing in **Water Resources and Remote Sensing**. Beyond the technical, I am passionate about discussing the evolving landscape of doctoral education and professional development in the modern era.
 
-* 📫 **Connect with me:** [Insert your LinkedIn or Email]
-* 📄 **Publications:** [Link to ResearchGate or Google Scholar]
+
+
+
+
+
+* 📫 **Connect with me:**
+* 📄 **Publications:**  
 
 ---
 *© 2026 | Developed by [Your Name] | Built with ❤️ and Google Earth Engine*
