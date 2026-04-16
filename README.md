@@ -22,11 +22,10 @@ Select a pathway below to explore my specific projects, applications, and academ
 ## 🚀 Featured Applications (GEE)
 *Interactive tools developed for real-time environmental monitoring.*
 
-### 🧪 [Water Quality Analysis Suite](./apps/water-quality-app/)
-A high-performance Google Earth Engine (GEE) module for retrieving $R_{rs}$ (Remote Sensing Reflectance) and monitoring:
-* **Chlorophyll-a & Turbidity**
-* **TSM & CDOM**
-* **Feature Importance Assessment** (based on the GLORIA dataset)
+### 🧪 [Reservoir Monitoring & Water Quality Suite](./apps/water-quality-app/)
+A comprehensive Google Earth Engine (GEE) module for analyzing water dynamics and quality properties:
+* **Water Dynamics:** Surface area quantification, automated masking, and temporal variation tracking.
+* **Water Quality:** Retrieval of Chlorophyll-a, Turbidity, TSM, and CDOM.
 👉 **[View App Documentation & Screenshots](./apps/water-quality-app/)**
 
 <!-- ### 🛰️ [Automatic Water Masking Tool](./apps/water-mask-app/)
