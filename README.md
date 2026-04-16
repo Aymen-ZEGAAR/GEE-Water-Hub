@@ -1,6 +1,6 @@
 # 🌊 Remote Sensing & Water Resources Research Hub
 
-Welcome to my professional repository. This space serves as a centralized hub for my work in **Satellite Hydrology**, **Machine Learning**, and **Earth Observation**, specifically focusing on the optical properties of inland and coastal waters.
+Welcome to my professional repository. This space serves as a centralized hub for my work in **Water Resources**, **Machine Learning**, and **Earth Observation**, specifically focusing on the optical properties of inland and coastal waters.
 
 ---
 
