@@ -25,9 +25,9 @@ A high-performance Google Earth Engine (GEE) module for retrieving $R_{rs}$ (Rem
 * **Feature Importance Assessment** (based on the GLORIA dataset)
 👉 **[View App Documentation & Screenshots](./apps/water-quality-app/)**
 
-### 🛰️ [Automatic Water Masking Tool](./apps/water-mask-app/)
+<!-- ### 🛰️ [Automatic Water Masking Tool](./apps/water-mask-app/)
 An automated workflow for surface area quantification and multi-format vector export (KML, SHP, GeoJSON).
-👉 **[View App Documentation & Screenshots](./apps/water-mask-app/)**
+👉 **[View App Documentation & Screenshots](./apps/water-mask-app/)** -->
 
 ---
 
