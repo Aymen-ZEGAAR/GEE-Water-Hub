@@ -21,13 +21,13 @@ This directory contains a suite of **Earth Observation (EO)** tools and **Google
 * **Status:** `Stable / Version 1.2`
 👉 [Explore App & Methodology](./water-quality-app/)
 
-### 2. [Surface Water Masking & Metrics](./water-mask-app/)
+<!-- ### 2. [Surface Water Masking & Metrics](./water-mask-app/)
 **Primary Focus:** Hydrological area quantification.
 * **Functionality:** Automated water body extraction with dynamic thresholding.
 * **Exports:** Multi-format vector support (KML, GeoJSON, SHP, CSV).
 * **Metrics:** Time-series surface area variation and trend analysis.
 * **Status:** `In Development`
-👉 [Explore App & Documentation](./water-mask-app/)
+👉 [Explore App & Documentation](./water-mask-app/) -->
 
 ---
 
