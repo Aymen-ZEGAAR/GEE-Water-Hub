@@ -4,6 +4,10 @@ Welcome to my professional repository. This space serves as a centralized hub fo
 
 ---
 
+## 💡 About Me
+I am a PhD researcher specializing in Water Resources, Remote Sensing, and machine learning applications for environmental monitoring. My work focuses on integrating Earth Observation data with data-driven models to better understand and monitor water systems, particularly water quality and reservoir dynamics. Beyond the technical aspects, I am interested in developing practical, reproducible tools and workflows that bridge research and real-world applications.
+
+---
 ## 🧭 Navigation Pathways
 Select a pathway below to explore my specific projects, applications, and academic insights.
 
@@ -40,8 +44,6 @@ I focus on the intersection of **Multispectral Observations** and **Hydrological
 
 ---
 
-## 💡 About Me
-I am a PhD Researcher and Editor specializing in **Water Resources and Remote Sensing**. Beyond the technical, I am passionate about discussing the evolving landscape of doctoral education and professional development in the modern era.
 
 
 
@@ -57,4 +59,4 @@ I am always open to discussing Water Resources research, Remote Sensing innovati
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Aymen-Zegaar-2?ev=hdr_xprf)
 [![Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=XAD43VwAAAAJ)
 ---
-*© 2026 | Developed by [Your Name] | Built with ❤️ and Google Earth Engine*
+*© 2026 | Developed by Dr. Aymen Zegaar | Built with ❤️ and Google Earth Engine*
