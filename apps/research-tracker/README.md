@@ -30,4 +30,4 @@ A free **Excel and Google Sheets** template for PhD students and researchers to 
 ### Adding Researchers
 ![Adding Applications](./img/add.jpg)
 
-
+*Created by Aymen Zegaar, PhD.*
