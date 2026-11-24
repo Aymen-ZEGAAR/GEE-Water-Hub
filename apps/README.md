@@ -31,14 +31,16 @@ This directory contains a suite of **Earth Observation (EO)** tools and **Google
 
 ---
 
+
 ## 🧰 Researcher Productivity Tools
 
 ### [Research Position Tracker](./research-tracker/)
 **Primary Focus:** Organizing postdoc, RA, and visiting-researcher applications.
-* **Features:** Status dropdowns, smart alerts, live dashboard, and success statistics.
-* **Formats:** Excel (`.xlsx`) and Google Sheets (free, no add-ins required).
+* **Features:** Color-coded status dropdowns, smart alerts (14-day orange / 30-day red), duplicate checks, and live analytics dashboard.
+* **Formats:** Excel (`.xlsx`), Google Sheets, and Visual PDF Manual (no add-ins or macros).
 * **Status:** `Stable / Version 1.0`
-👉 **[Launch Interactive Page](https://Aymen-ZEGAAR.github.io/GEE-Water-Hub/dev-apps/research-tracker/)** | **[View Files](./research-tracker/)**
+👉 **[Launch Live Page](https://Aymen-ZEGAAR.github.io/GEE-Water-Hub/apps/research-tracker/)** | **[View Files & Docs](./research-tracker/)**
+
 
 ---
 
