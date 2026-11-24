@@ -31,6 +31,17 @@ This directory contains a suite of **Earth Observation (EO)** tools and **Google
 
 ---
 
+## 🧰 Researcher Productivity Tools
+
+### [Research Position Tracker](./research-tracker/)
+**Primary Focus:** Organizing postdoc, RA, and visiting-researcher applications.
+* **Features:** Status dropdowns, smart alerts, live dashboard, and success statistics.
+* **Formats:** Excel (`.xlsx`) and Google Sheets (free, no add-ins required).
+* **Status:** `Stable / Version 1.0`
+👉 **[Launch Interactive Page](https://Aymen-ZEGAAR.github.io/GEE-Water-Hub/dev-apps/research-tracker/)** | **[View Files](./research-tracker/)**
+
+---
+
 ## 🧪 Shared Modules
 To keep this repository **Lean**, I use a modular approach. The core calculations used in these apps are stored in our shared library:
 
