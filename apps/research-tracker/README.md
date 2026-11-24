@@ -13,9 +13,5 @@ A free **Excel and Google Sheets** template for PhD students and researchers to 
 * Success statistics by country, institution and research field
 * Built for 1,000+ researchers, no add-ins or macros
 
-## Download
-* [Excel template](./files/Researcher_Tracker_TEMPLATE_Excel.xlsx)
-* [Google Sheets template](./files/Researcher_Tracker_TEMPLATE_GoogleSheets.xlsx) (upload to Drive, then open with Google Sheets and Save as Google Sheets)
-* [Visual manual (PDF)](./files/Research_Tracker_Manual.pdf)
 
 *Created by Aymen Zegaar, PhD.*
