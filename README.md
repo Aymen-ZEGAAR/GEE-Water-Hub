@@ -15,7 +15,7 @@ Select a pathway below to explore my specific projects, applications, and academ
 | :--- | :--- | :--- |
 | **🚀 [Dev Apps & Tools](./apps/)** | GEE Applications for Water Masking & Quality. | Active |
 | **📚 [Academic Products](./research/)** | Code, Datasets, and Manuscripts. | Ongoing |
-| **✍️ [Perspectives & Media](./perspectives/)** | "The PhD Curse" & Doctoral Education Reform. | Planning |
+<!--| **✍️ [Perspectives & Media](./perspectives/)** | "The PhD Curse" & Doctoral Education Reform. | Planning | -->
 
 ---
 
@@ -32,6 +32,11 @@ A comprehensive Google Earth Engine (GEE) module for analyzing water dynamics an
 An automated workflow for surface area quantification and multi-format vector export (KML, SHP, GeoJSON).
 👉 **[View App Documentation & Screenshots](./apps/water-mask-app/)** -->
 
+### 📊 [Research Position Tracker](./apps/research-tracker/)
+A free, zero-dependency **Excel and Google Sheets** toolkit designed for PhD candidates and early-career researchers to organize and analyze postdoc, RA, and visiting-researcher applications:
+* **Smart Tracking:** Color-coded status dropdowns, automated deadline alerts, and duplicate/missing-email checks.
+* **Live Analytics:** Built-in dashboard tracking response rates and success statistics by country, field, and institution.
+👉 **[Launch Live Interactive Page](https://Aymen-ZEGAAR.github.io/GEE-Water-Hub/apps/research-tracker/)** | **[View Documentation & Templates](./apps/research-tracker/)**
 ---
 
 ## 🔬 Research & Publications
