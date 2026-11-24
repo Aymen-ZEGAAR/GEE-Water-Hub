@@ -3,7 +3,7 @@
 
 A free **Excel and Google Sheets** template for PhD students and researchers to track postdoc, research-assistant and visiting-researcher applications.
 
-**Live page:** [https://Aymen-ZEGAAR.github.io/GEE-Water-Hub/dev-apps/research-tracker/](https://Aymen-ZEGAAR.github.io/GEE-Water-Hub/apps/research-tracker/)
+**[Launch Live Page](https://Aymen-ZEGAAR.github.io/GEE-Water-Hub/apps/research-tracker/)**
 
 
 ## Features
