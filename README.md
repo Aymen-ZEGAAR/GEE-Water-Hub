@@ -57,7 +57,7 @@ I focus on the intersection of **Multispectral Observations** and **Hydrological
 # 🤝 Connect & Collaborate
 I am always open to discussing Water Resources research, Remote Sensing innovations, or the future of Doctoral Education.
 
-* **📧 Email:** e.aymenzegaar@go.ugr.es | aymen.zegaar@univ-biskra.dz
+* **📧 Email:** aymen.zegaar@univ-biskra.dz
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymen-zegaar-92629114b/)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Aymen-Zegaar-2?ev=hdr_xprf)
