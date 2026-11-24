@@ -13,5 +13,18 @@ A free **Excel and Google Sheets** template for PhD students and researchers to 
 * Success statistics by country, institution and research field
 * Built for 1,000+ researchers, no add-ins or macros
 
+## 📸 Visual Snapshots
 
-*Created by Aymen Zegaar, PhD.*
+### 1. Live Analytics Dashboard
+![Live Analytics Dashboard](./images/dashboard-overview.png)
+*Real-time tracking of response rates, monthly application volume, and success breakdown by country and field.*
+
+### 2. Application Tracker & Smart Alerts
+![Application Tracker and Alerts](./images/tracker-table.png)
+*Color-coded status dropdowns with automated 14-day (orange) and 30-day (red) follow-up alerts.*
+
+### 3. Visual Manual Preview
+![Visual Manual Guide](./images/manual-preview.png)
+*Quick-start walkthrough included in the [Visual Manual (PDF)](./files/Research_Tracker_Manual.pdf).*
+
+
